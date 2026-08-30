@@ -1,0 +1,11 @@
+[submodule "third_party/czkawka"]
+	path = third_party/czkawka
+	url = https://github.com/qarmin/czkawka.git
+
+[submodule "third_party/docling"]
+	path = third_party/docling
+	url = https://github.com/docling-project/docling.git
+
+[submodule "third_party/llama_index"]
+	path = third_party/llama_index
+	url = https://github.com/run-llama/llama_index.git

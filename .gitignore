@@ -2,3 +2,21 @@
 __pycache__/
 *.pyc
 .env
+
+# Test data
+data/test/*.pdf
+data/test/*.txt
+
+# Runtime / generated data
+data/output/
+data/cache/
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Extracted test output
+data/test/*.md
